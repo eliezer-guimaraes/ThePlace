@@ -30,6 +30,7 @@
   
   <div style="display: inline-flex;">
     <img src="./theplace_screenshot3.png" width="800px">
+    <img src="./theplace_screenshot1.png" width="350px">
     <img src="./theplace_screenshot2.png" width="350px">
   </div>
 </div>
