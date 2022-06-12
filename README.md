@@ -28,6 +28,13 @@
   
   <p>Another way to install the program, is by <b>GIT</b> for Windows! Check it: https://gitforwindows.org/</p>
   
-  
+  <div style="display: inline-flex;">
+    <img src="./theplace_screenshot3.png" width="800px">
+    <img src="./theplace_screenshot2.png" width="350px">
+  </div>
 </div>
+<br>
+<hr>
+<p>🔴I'm not responsible for the misuse of the tool!🔴</p>
+<hr>
 
