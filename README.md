@@ -28,9 +28,6 @@
   
   <p>Another way to install the program, is by <b>GIT</b> for Windows! Check it: https://gitforwindows.org/</p>
   
-  <div style="display: inline-flex;">
-    <img src="./theplace_screenshot3.png" width="700px">
-    <img src="./theplace_screenshot2.png" width="700px">
-  </div>
+  
 </div>
 
